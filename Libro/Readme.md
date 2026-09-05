@@ -27,17 +27,18 @@ Contenido: Adquisición de datos con la librería PANDAS. Utilización y alcance
 En la clase de hoy trabajaremos los siguientes temas:
 
   ● Toma de datos con PANDAS:
-          ○     Formato CSV
+  
+          ○ Formato CSV
 
-          ○     Desde Excel
+          ○ Desde Excel
 
-          ○     Formato json
+          ○ Formato json
 
-          ○     Formato html
+          ○ Formato html
 
-          ○     Base de datos – SQLite3
+          ○ Base de datos – SQLite3
 
-          ○     Lenguaje XML
+          ○ Lenguaje XML
 
   ● Gráficos de línea.
   
