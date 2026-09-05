@@ -40,6 +40,9 @@ En la clase de hoy trabajaremos los siguientes temas:
           ○     Lenguaje XML
 
   ● Gráficos de línea.
+  
   ● Gráficos de dispersión.
+  
   ● Polinomios.
+  
   ● Mapa de colores.
