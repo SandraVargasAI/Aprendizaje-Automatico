@@ -30,7 +30,8 @@ El objetivo de este ejercicio es utilizar la librería Matplotlib para realizar 
 
 ## Ejercicio 2
 
-Al descargar el archivo Automobile.csv se obtiene un conjunto de datos que representa características de automóviles para la predicción de su consumo de combustible. Cada fila del conjunto de datos corresponde a un automóvil y contiene las siguientes columnas:
+Al descargar el archivo Automobile.csv - https://www.kaggle.com/datasets/tawfikelmetwally/automobile-dataset?resource=download - 
+se obtiene un conjunto de datos que representa características de automóviles para la predicción de su consumo de combustible. Cada fila del conjunto de datos corresponde a un automóvil y contiene las siguientes columnas:
 
 - `mpg`: Millas por galón (consumo de combustible)
 
