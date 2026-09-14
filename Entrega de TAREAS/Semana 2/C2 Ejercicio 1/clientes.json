@@ -1,0 +1,82 @@
+[
+    {
+        "ID_CLIENTE": "C001",
+        "NOMBRE": "Ana García",
+        "CIUDAD": "Buenos Aires",
+        "PROVINCIA": "Buenos Aires",
+        "EDAD": 34,
+        "SEGMENTO": "Frecuente"
+    },
+    {
+        "ID_CLIENTE": "C002",
+        "NOMBRE": "Carlos López",
+        "CIUDAD": "La Plata",
+        "PROVINCIA": "Buenos Aires",
+        "EDAD": 42,
+        "SEGMENTO": "Ocasional"
+    },
+    {
+        "ID_CLIENTE": "C003",
+        "NOMBRE": "María Rodríguez",
+        "CIUDAD": "Córdoba",
+        "PROVINCIA": "Córdoba",
+        "EDAD": 29,
+        "SEGMENTO": "Frecuente"
+    },
+    {
+        "ID_CLIENTE": "C004",
+        "NOMBRE": "Juan Martínez",
+        "CIUDAD": "Rosario",
+        "PROVINCIA": "Santa Fe",
+        "EDAD": 38,
+        "SEGMENTO": "Frecuente"
+    },
+    {
+        "ID_CLIENTE": "C005",
+        "NOMBRE": "Laura Fernández",
+        "CIUDAD": "Mendoza",
+        "PROVINCIA": "Mendoza",
+        "EDAD": 31,
+        "SEGMENTO": "Premium"
+    },
+    {
+        "ID_CLIENTE": "C006",
+        "NOMBRE": "Diego Sánchez",
+        "CIUDAD": "Ushuaia",
+        "PROVINCIA": "Tierra del Fuego",
+        "EDAD": 45,
+        "SEGMENTO": "Ocasional"
+    },
+    {
+        "ID_CLIENTE": "C007",
+        "NOMBRE": "Sofía Torres",
+        "CIUDAD": "Salta",
+        "PROVINCIA": "Salta",
+        "EDAD": 27,
+        "SEGMENTO": "Frecuente"
+    },
+    {
+        "ID_CLIENTE": "C008",
+        "NOMBRE": "Martín Romero",
+        "CIUDAD": "Neuquén",
+        "PROVINCIA": "Neuquén",
+        "EDAD": 36,
+        "SEGMENTO": "Ocasional"
+    },
+    {
+        "ID_CLIENTE": "C009",
+        "NOMBRE": "Valentina Díaz",
+        "CIUDAD": "Mar del Plata",
+        "PROVINCIA": "Buenos Aires",
+        "EDAD": 25,
+        "SEGMENTO": "Premium"
+    },
+    {
+        "ID_CLIENTE": "C010",
+        "NOMBRE": "Pablo Herrera",
+        "CIUDAD": "San Miguel de Tucumán",
+        "PROVINCIA": "Tucumán",
+        "EDAD": 48,
+        "SEGMENTO": "Ocasional"
+    }
+]
