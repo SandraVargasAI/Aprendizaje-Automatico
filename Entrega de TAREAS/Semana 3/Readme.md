@@ -2,15 +2,12 @@
 
 La actividad parte de un escenario donde una empresa busca preparar una tabla de datos de clientes para un modelo de aprendizaje automático:
 
-Cliente|Edad|Ingreso mensual|Ciudad  |  Satisfacción  |  Compras
-
-A          25        $800.000        Ushuaia        Alta          0
-
-B          40        Sin dato        Tolhuin        Baja          3
-
-C          35        $1.200.000      Río Grande     Media         15
-
-D          50        $950.000        Ushuaia        Alta          1
+| Cliente | Edad | Ingreso mensual | Ciudad | Satisfacción | Compras |
+| --- | --- | --- | --- | --- | --- |
+|A|25|$800.000|Ushuaia|Alta|0|
+|B|40|Sin dato|Tolhuin|Baja|3|
+|C|35|$1.200.000|Río Grande|Media|15|
+|D|50|$950.000|Ushuaia|Alta|1|
 
 
 ## 1. Tu publicación principal
