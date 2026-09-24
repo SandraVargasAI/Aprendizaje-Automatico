@@ -1,14 +1,14 @@
-## Predicción del rendimiento de cultivares de soja mediante un modelo de Regresión Lineal
+## Predicción del rendimiento de cultivos de soja mediante un modelo de Regresión Lineal
 
 La pregunta es:
 
-¿Es posible predecir el rendimiento de grano de diferentes cultivares de soja a partir de sus características morfológicas y productivas mediante un modelo de regresión lineal?
+¿Es posible predecir el rendimiento de grano de diferentes cultivos de soja a partir de sus características morfológicas y productivas mediante un modelo de regresión lineal?
 
 ## Objetivo 
 
-Desarrollar un modelo de regresión lineal que permita predecir el rendimiento de grano de cultivares de soja a partir de sus características morfológicas y productivas, analizando previamente la estructura, distribución y relaciones existentes entre las variables del conjunto de datos.
+Desarrollar un modelo de regresión lineal que permita predecir el rendimiento de grano de cultivos de soja a partir de sus características morfológicas y productivas, analizando previamente la estructura, distribución y relaciones existentes entre las variables del conjunto de datos.
 
-## Dataset
+## Fuente y Dataset
 
 Rodrigues de Oliveira, B. & Mario Zuffo, A. (2023). Forty Soybean Cultivars from Subsequent Harvests [Dataset]. UCI Machine Learning Repository. 
 
