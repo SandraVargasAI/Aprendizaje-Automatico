@@ -1,8 +1,8 @@
-Foro semana 5
+# Foro semana 5
 
 Los siguientes escenarios están inspirados en problemas reales. Las cantidades y características de los datos son hipotéticas.
 
-Caso 1. Detección de operaciones fraudulentas
+## Caso 1. Detección de operaciones fraudulentas
 
 Una empresa de pagos dispone de un millón de operaciones. Solo el 1 % corresponde a fraudes.
 
@@ -26,7 +26,7 @@ La empresa necesita responder rápidamente. Un fraude no detectado produce una p
 
 Para debatir: ¿qué modelo podría captar mejor las combinaciones entre variables? ¿Qué dificultades tendría KNN al predecir con tantos registros? ¿Sería suficiente obtener un 99 % de exactitud para considerar bueno un modelo?
 
-Caso 2. Predicción de abandono estudiantil
+## Caso 2. Predicción de abandono estudiantil
 
 Una institución quiere identificar estudiantes que podrían abandonar durante el próximo mes para ofrecerles acompañamiento.
 
@@ -50,7 +50,7 @@ Algunas variables tienen datos faltantes. En los registros históricos, el 20 % 
 
 Para debatir: ¿qué ventajas podrían tener la regresión logística y un árbol de poca profundidad para explicar las predicciones? ¿Qué ocurriría si un árbol aprendiera reglas basadas en muy pocos estudiantes? ¿Sería válido incorporar la fecha de baja definitiva como variable predictora?
 
-Caso 3. Clasificación de productos por sus mediciones
+## Caso 3. Clasificación de productos por sus mediciones
 
 Una fábrica quiere clasificar piezas como aceptables o defectuosas.
 
