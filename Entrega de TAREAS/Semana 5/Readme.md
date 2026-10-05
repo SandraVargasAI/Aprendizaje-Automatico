@@ -1,4 +1,4 @@
-# Foro semana 5
+# Foro Semana 5
 
 Los siguientes escenarios están inspirados en problemas reales. Las cantidades y características de los datos son hipotéticas.
 
@@ -72,7 +72,7 @@ Las clases están aproximadamente equilibradas. Existen varios grupos de piezas 
 
 Para debatir: ¿podría ser útil clasificar una pieza según sus vecinas más cercanas? ¿Qué pasaría si se aplicara KNN sin escalar las variables? ¿Qué dificultades podría tener una regresión logística que utiliza las variables originales sin agregar interacciones ni transformaciones?
 
-**Primera participación: elegí un caso y defendé una propuesta**
+# **Primera participación: elegí un caso y defendé una propuesta**
 
 Publicá una intervención de 350 a 500 palabras, aproximadamente, que aborde los siguientes puntos:
 
@@ -90,7 +90,7 @@ Comparación justa. ¿Cómo comprobarías tu propuesta utilizando entrenamiento,
 
 Terminá tu publicación con una pregunta abierta para tus compañeros.
 
-**Segunda participación: debatí con otros estudiantes**
+# **Segunda participación: debatí con otros estudiantes**
 
 Respondé a dos compañeros, con intervenciones de entre 100 y 150 palabras cada una:
 
